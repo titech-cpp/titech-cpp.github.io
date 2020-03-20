@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# プログラミング創造演習(CSC.T.244)
 
-You can use the [editor on GitHub](https://github.com/titech-cpp/titech-cpp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## お知らせ
+* 本演習の受講方法および初回演習についてはこのサイトでアナウンスします。少しお待ちください。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 講義担当
+* 権藤克彦・西崎真也・渡部卓雄・中村誠希（情報工学系）
 
-### Markdown
+## 講義時間・講義室
+* 1Q: 月曜7-8限・木曜5-8限, 2Q: 月曜5-8限・木曜5-6限
+* GSIC 3F 307号室
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 休講・補講予定
 
-```markdown
-Syntax highlighted code block
+## 講義概要
+本演習の対象者は，プログラミング言語CあるいはC++による手続き型プログラミングの基礎的および発展的な内容についてある程度習熟した者とする．本演習の目的は，自ら設定した課題を通して，履修者がプログラミングに関する高度な知識および技術を身に着けることである．
 
-# Header 1
-## Header 2
-### Header 3
+演習の開始時に，受講者は担当教員と相談してプログラミングに関する課題を設定する．
+履修者は各演習回において，設定した課題の達成に向けた取組を行う．
+課題の例（この例に限らない）：
+* 新しいソフトウェアの設計と実装
+* これまでに作成したソフトウェアのさらなる発展
+* プログラミングコンテストあるいはセキュリティコンテストに向けた実習
 
-- Bulleted
-- List
+## 授業の進め方
+最初に担当教員のアドバイスのもとに履修者は各自の課題を設定する．課題は手続き型プログラミングに関する発展的なものとする．各演習回において，各履修者は設定した課題に向けた取組み（ソフトウェア設計，プログラミング，テスト，デバッグ，コンテストに向けた演習など）をそれぞれ行う．その際必要に応じて担当教員がアドバイスを行う．課題に対する取組状況および最終的な成果について中間発表会および最終発表会で発表を行う．
 
-1. Numbered
-2. List
+## 予定
+* 1. 演習の進め方についての説明
+* 2. 課題設定
+* 3-12. 課題への取組み
+* 13. 中間報告会準備
+* 14. 中間報告会
+* 15-26. 課題への取組み
+* 27. 最終報告会準備
+* 28. 最終報告会
 
-**Bold** and _Italic_ and `Code` text
+## 関連講義等
+* CSC.T243: 手続き型プログラミング基礎
+* CSC.T253: 手続き型プログラミング発展
 
-[Link](url) and ![Image](src)
-```
+## 成績評価（詳細は第1回スライドを参照）
+* 中間報告と最終報告による．
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/titech-cpp/titech-cpp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 関連・参考サイト
+* 本演習のGithubアカウント: [http://github.com/titech-cpp/](http://github.com/titech-cpp/)
