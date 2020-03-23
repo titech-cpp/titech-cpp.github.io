@@ -2,7 +2,7 @@ title: Creative Programming Projects
 description: 
 google_analytics: 
 show_downloads: false
-theme: minima
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
