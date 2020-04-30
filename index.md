@@ -2,7 +2,7 @@
 
 ## お知らせ
 * 履修希望者は以下の登録フォームに必要事項を記入してください．〆切は2020年5月6日(水) 17:00です．
-  - https://forms.gle/gtbB2qTwxHTWkcUJ6
+  - [https://forms.gle/gtbB2qTwxHTWkcUJ6](https://forms.gle/gtbB2qTwxHTWkcUJ6)
 * 初回(5月4日7-8限)は休講とします．履修希望者は念のため手続き型プログラミング基礎の初回に参加することをおすすめします．
 
 ## この演習について
