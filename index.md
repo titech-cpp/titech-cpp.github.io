@@ -4,6 +4,7 @@
 
 * 履修希望者は以下の登録フォームに必要事項を記入してください．〆切は2021年4月14日(水) 17:00です．
   - [https://forms.gle/biT3Zt8q2hZUh8C49](https://forms.gle/biT3Zt8q2hZUh8C49)
+  - 登録フォームに含まれている問題：[https://titech-cpp.github.io/q2021.pdf](https://titech-cpp.github.io/q2021.pdf)
 * 初回(2021年4月12日7-8限)は休講とします．履修希望者は念のため手続き型プログラミング基礎の初回に参加することをおすすめします．
 
 ## この演習について
